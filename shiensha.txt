@@ -1,5 +1,5 @@
 [TITLE]
-浜名湖なこFANBOX支援者一覧
+FANBOX支援者一覧
 [END]
 
 [CONTENT]
@@ -7,7 +7,7 @@ https://kb-sea.fanbox.cc/
 [END]
 
 [SUBTITLE]
-\nペタバイトのうみ(10000円)
+\nペタバイトのうみ
 [END]
 
 [CONTENT]
@@ -15,7 +15,7 @@ https://kb-sea.fanbox.cc/
 [END]
 
 [SUBTITLE]
-\nテラバイトのうみ(5000円)
+\nテラバイトのうみ
 [END]
 
 [CONTENT]
@@ -23,7 +23,7 @@ none
 [END]
 
 [SUBTITLE]
-\nギガバイトのうみ(2500円)
+\nギガバイトのうみ
 [END]
 
 [CONTENT]
@@ -31,7 +31,7 @@ none
 [END]
 
 [SUBTITLE]
-\nメガバイトのうみ(1000円)
+\nメガバイトのうみ
 [END]
 
 [CONTENT]
@@ -39,7 +39,7 @@ none
 [END]
 
 [SUBTITLE]
-\nキロバイトのうみ(500円)
+\nキロバイトのうみ
 [END]
 
 [CONTENT]
