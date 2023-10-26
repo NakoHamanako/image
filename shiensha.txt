@@ -7,7 +7,7 @@ https://kb-sea.fanbox.cc/
 [END]
 
 [SUBTITLE]
-\nペタバイトのうみ
+\nペタバイトのうみ(10000円)
 [END]
 
 [CONTENT]
@@ -15,7 +15,7 @@ https://kb-sea.fanbox.cc/
 [END]
 
 [SUBTITLE]
-\nテラバイトのうみ
+\nテラバイトのうみ(5000円)
 [END]
 
 [CONTENT]
@@ -23,7 +23,7 @@ none
 [END]
 
 [SUBTITLE]
-\nギガバイトのうみ
+\nギガバイトのうみ(2500円)
 [END]
 
 [CONTENT]
@@ -31,7 +31,7 @@ none
 [END]
 
 [SUBTITLE]
-\nメガバイトのうみ
+\nメガバイトのうみ(1000円)
 [END]
 
 [CONTENT]
@@ -39,7 +39,7 @@ none
 [END]
 
 [SUBTITLE]
-\nキロバイトのうみ
+\nキロバイトのうみ(500円)
 [END]
 
 [CONTENT]
