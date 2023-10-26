@@ -11,7 +11,7 @@ https://kb-sea.fanbox.cc/
 [END]
 
 [CONTENT]
-・nekonano
+nekonano
 [END]
 
 [SUBTITLE]
@@ -43,6 +43,5 @@ none
 [END]
 
 [CONTENT]
-・gomokuinari
-・折原こころ
+gomokuinari・こころ_Cocoro
 [END]
