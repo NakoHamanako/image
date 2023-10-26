@@ -43,5 +43,5 @@ none
 [END]
 
 [CONTENT]
-none
+・gomokuinari
 [END]
