@@ -43,5 +43,5 @@ none
 [END]
 
 [CONTENT]
-gomokuinari・こころ_Cocoro・酒蒸・もすかう
+gomokuinari・こころ_Cocoro・sakemushi・もすかう
 [END]
